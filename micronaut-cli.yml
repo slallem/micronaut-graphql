@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: fr.systapps
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, graphql, http-client, java, java-application, junit, logback, micronaut-build, netty-server, openapi, readme, serialization-bson, shade, swagger-ui, yaml]
